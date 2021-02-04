@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: c9024eb78f3eb2b429137732564e6175
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bonnet
+    100002: boot_ok
+    100004: brake_pivot
+    100006: bump_front
+    100008: bump_rear_ok
+    100010: chassis
+    100012: door_lf_Ok_pivot
+    100014: door_lr_ok_pivot
+    100016: door_rf_ok_pivot
+    100018: door_rr_ok
+    100020: engine
+    100022: extra1
+    100024: glass_headlight
+    100026: Headlight
+    100028: interior
+    100030: interior_glass
+    100032: light_glass
+    100034: tire01_pivot
+    100036: tire02_pivot
+    100038: tire03_pivot
+    100040: tire_pivot
+    100042: winds
+    100044: windscreen
+    100046: //RootNode
+    400000: bonnet
+    400002: boot_ok
+    400004: brake_pivot
+    400006: bump_front
+    400008: bump_rear_ok
+    400010: chassis
+    400012: door_lf_Ok_pivot
+    400014: door_lr_ok_pivot
+    400016: door_rf_ok_pivot
+    400018: door_rr_ok
+    400020: engine
+    400022: extra1
+    400024: glass_headlight
+    400026: Headlight
+    400028: interior
+    400030: interior_glass
+    400032: light_glass
+    400034: tire01_pivot
+    400036: tire02_pivot
+    400038: tire03_pivot
+    400040: tire_pivot
+    400042: winds
+    400044: windscreen
+    400046: //RootNode
+    2100000: bonnetMat
+    2100002: boot_okMat
+    2100004: brake_pivotMat
+    2100006: bump_frontMat
+    2100008: bump_rear_okMat
+    2100010: chassisMat
+    2100012: door_lf_Ok_pivotMat
+    2100014: door_lr_ok_pivotMat
+    2100016: door_rf_ok_pivotMat
+    2100018: door_rr_okMat
+    2100020: engineMat
+    2100022: extra1Mat
+    2100024: glass_headlightMat
+    2100026: HeadlightMat
+    2100028: interiorMat
+    2100030: interior_glassMat
+    2100032: light_glassMat
+    2100034: tire01_pivotMat
+    2100036: tire02_pivotMat
+    2100038: tire03_pivotMat
+    2100040: tire_pivotMat
+    2100042: windsMat
+    2100044: windscreenMat
+    2300000: bonnet
+    2300002: boot_ok
+    2300004: brake_pivot
+    2300006: bump_front
+    2300008: bump_rear_ok
+    2300010: chassis
+    2300012: door_lf_Ok_pivot
+    2300014: door_lr_ok_pivot
+    2300016: door_rf_ok_pivot
+    2300018: door_rr_ok
+    2300020: engine
+    2300022: extra1
+    2300024: glass_headlight
+    2300026: Headlight
+    2300028: interior
+    2300030: interior_glass
+    2300032: light_glass
+    2300034: tire01_pivot
+    2300036: tire02_pivot
+    2300038: tire03_pivot
+    2300040: tire_pivot
+    2300042: winds
+    2300044: windscreen
+    3300000: bonnet
+    3300002: boot_ok
+    3300004: brake_pivot
+    3300006: bump_front
+    3300008: bump_rear_ok
+    3300010: chassis
+    3300012: door_lf_Ok_pivot
+    3300014: door_lr_ok_pivot
+    3300016: door_rf_ok_pivot
+    3300018: door_rr_ok
+    3300020: engine
+    3300022: extra1
+    3300024: glass_headlight
+    3300026: Headlight
+    3300028: interior
+    3300030: interior_glass
+    3300032: light_glass
+    3300034: tire01_pivot
+    3300036: tire02_pivot
+    3300038: tire03_pivot
+    3300040: tire_pivot
+    3300042: winds
+    3300044: windscreen
+    4300000: bonnet
+    4300002: boot_ok
+    4300004: brake_pivot
+    4300006: bump_front
+    4300008: bump_rear_ok
+    4300010: chassis
+    4300012: door_lf_Ok_pivot
+    4300014: door_lr_ok_pivot
+    4300016: door_rf_ok_pivot
+    4300018: door_rr_ok
+    4300020: engine
+    4300022: extra1
+    4300024: glass_headlight
+    4300026: Headlight
+    4300028: interior
+    4300030: interior_glass
+    4300032: light_glass
+    4300034: tire01_pivot
+    4300036: tire02_pivot
+    4300038: tire03_pivot
+    4300040: tire_pivot
+    4300042: winds
+    4300044: windscreen
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadlightMat
+    second: {fileID: 2100000, guid: 11f4ef8a803cd914c80d962649bc4abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bonnetMat
+    second: {fileID: 2100000, guid: e9e8a37ecc9382c468ee5dd5f61445dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boot_okMat
+    second: {fileID: 2100000, guid: 8a0006947af8cc2478aa724532951fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brake_pivotMat
+    second: {fileID: 2100000, guid: f58ff9be0af669e479ed25dba713f44f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_frontMat
+    second: {fileID: 2100000, guid: 858afeb53d822e5439a260474ced1eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_rear_okMat
+    second: {fileID: 2100000, guid: 81a9892701d104e48be33b7abc40cee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chassisMat
+    second: {fileID: 2100000, guid: d8da2c6d7029d4548872041056a856cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lf_Ok_pivotMat
+    second: {fileID: 2100000, guid: dde20eca239759140b3c96d4421eb29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lr_ok_pivotMat
+    second: {fileID: 2100000, guid: 0a37d56e945787c459bcf6fde7fc6bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_rf_ok_pivotMat
+    second: {fileID: 2100000, guid: 3c4686ab16626b94cb3c79087779277b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_rr_okMat
+    second: {fileID: 2100000, guid: 402c88c3551b705489b0c0a504526824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engineMat
+    second: {fileID: 2100000, guid: 2e87c3dfd952fb84d95aacbb14534e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: extra1Mat
+    second: {fileID: 2100000, guid: 0dba37ea2b46d274b9a3d2c7dc4e54d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_headlightMat
+    second: {fileID: 2100000, guid: 090e85ff61a22b5449657ce84981453a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interiorMat
+    second: {fileID: 2100000, guid: 1456c63d654a9c741b6d997c6913078d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_glassMat
+    second: {fileID: 2100000, guid: 6155a84b422e9e94ba5bcf2b0ad484e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_glassMat
+    second: {fileID: 2100000, guid: b4989b30e054f2e4daa5c126cae8e6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire01_pivotMat
+    second: {fileID: 2100000, guid: dff9fb55bb6144845970996cc99ee405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire02_pivotMat
+    second: {fileID: 2100000, guid: 50cfa98d05ec1e247a2ffdf33e7348a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire03_pivotMat
+    second: {fileID: 2100000, guid: 5d67950dfd2722542a9d4c152cc8e305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire_pivotMat
+    second: {fileID: 2100000, guid: 89395d08000da1344a25685d1edbc8df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windsMat
+    second: {fileID: 2100000, guid: 61eab44e7b8ea9e498a700d3699d066f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windscreenMat
+    second: {fileID: 2100000, guid: 458e4b065694e664483651cb20d5242d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

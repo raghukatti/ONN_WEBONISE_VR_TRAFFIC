@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: ef618d076b548c54f9e4d1b0b4d1c04e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BALCONY
+    100002: //RootNode
+    100004: DOOR
+    100006: FLOOR
+    100008: LAND
+    100010: LOUVER
+    100012: ROOF
+    100014: WALL
+    100016: WINDOW
+    400000: BALCONY
+    400002: //RootNode
+    400004: DOOR
+    400006: FLOOR
+    400008: LAND
+    400010: LOUVER
+    400012: ROOF
+    400014: WALL
+    400016: WINDOW
+    2100000: BALCONYMat
+    2100002: DOORMat
+    2100004: FLOORMat
+    2100006: LANDMat
+    2100008: LOUVERMat
+    2100010: ROOFMat
+    2100012: WALLMat
+    2100014: WINDOWMat
+    2300000: BALCONY
+    2300002: DOOR
+    2300004: FLOOR
+    2300006: LAND
+    2300008: LOUVER
+    2300010: ROOF
+    2300012: WALL
+    2300014: WINDOW
+    3300000: BALCONY
+    3300002: DOOR
+    3300004: FLOOR
+    3300006: LAND
+    3300008: LOUVER
+    3300010: ROOF
+    3300012: WALL
+    3300014: WINDOW
+    4300000: BALCONY
+    4300002: DOOR
+    4300004: FLOOR
+    4300006: LAND
+    4300008: LOUVER
+    4300010: ROOF
+    4300012: WALL
+    4300014: WINDOW
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BALCONYMat
+    second: {fileID: 2100000, guid: 8a51936878b08f746b4600f7301f002f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOORMat
+    second: {fileID: 2100000, guid: c4e7ff6cb2f92d0419f6d615b8e03e5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLOORMat
+    second: {fileID: 2100000, guid: 2414bd2957931604d8a80f0cabc481f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LANDMat
+    second: {fileID: 2100000, guid: a7ed730c2a471ec4dade910ca15192ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOUVERMat
+    second: {fileID: 2100000, guid: 94e25c5e666640148a262732bae06393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOFMat
+    second: {fileID: 2100000, guid: f26ef5e7250882f429b9248440f45907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WALLMat
+    second: {fileID: 2100000, guid: d7bb529b25843ac45ba1b4de6b99eb53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WINDOWMat
+    second: {fileID: 2100000, guid: 8ba6173be33041d4caf545fa840cd79a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
